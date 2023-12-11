@@ -74,8 +74,8 @@ const HeroSection = () => {
           >
           <div className="w-[400px] h-[400px] relative z-0">
             <img
-              src="/Hero-Section.png"
-              alt="hero section"
+              src="/YF.jpg"
+              alt="YF Pic"
               className=" transform rounded-full flex relative -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               width={450}
               height={450}
